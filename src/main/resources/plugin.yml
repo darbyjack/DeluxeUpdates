@@ -1,0 +1,6 @@
+name: DeluxeUpdates
+version: @version@
+main: me.glaremasters.deluxeupdates.DeluxeUpdates
+api-version: 1.13
+authors: [Glare]
+description: Simple way to keep track of your plugin updates
